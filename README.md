@@ -120,6 +120,18 @@ Os itens abaixo **não são obrigatórios nem desclassificatórios**, mas, para 
 6. **Estilização**: Use variáveis no CSS para temas ou cores.
 7. **Documentação**: Documente seu código com comentários relevantes.
 
+### 🚀 Sugestão premiada
+
+Implementação de uma API utilizando Ruby on Rails:
+- Caso tenha familiaridade, considere criar a fake API usando Rails. Aqui estão algumas ideias que podem ser implementadas:
+   - Estruturar endpoints RESTful para fornecer os dados do veículo e da empresa, incluindo o suporte para filtragem ou paginação (se aplicável).
+   - Usar o Rails para lidar com a formatação dos dados no backend, como o número de telefone e WhatsApp.
+   - Implementar boas práticas de API, como documentação automática (por exemplo, com Swagger ou API Blueprint).
+
+_Por que sugerimos Rails?_
+
+Adicionar um backend bem estruturado demonstra uma habilidade extra de desenvolvimento full-stack, além de alinhar com tecnologias que usamos no nosso dia a dia.
+
 ---
 
 ## 📩 Dúvidas
