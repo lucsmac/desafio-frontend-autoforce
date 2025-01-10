@@ -118,8 +118,9 @@ Os itens abaixo **não são obrigatórios nem desclassificatórios**, mas, para 
 3. **Detalhes de Compartilhamento:** Inclua botões de compartilhamento social (ex.: WhatsApp, Facebook) para facilitar o envio do link do veículo.
 4. **Animações:** Adicione animações leves para transições e interações do usuário, garantindo uma experiência fluida.
 5. **Teste Básico:** Crie um teste unitário para validar que os dados do veículo estão sendo corretamente renderizados na interface.
-6. **Estilização**: Use variáveis no CSS para temas ou cores.
+6. **Estilização**: Use variáveis no CSS para temas ou cores e considere organizar o CSS usando a metodologia BEM ([saiba mais](https://desenvolvimentoparaweb.com/css/bem/)).
 7. **Documentação**: Documente seu código com comentários relevantes.
+8. **Class components**: Demonstrar a capacidade de trabalhar com Class Components em React também é uma vantagem
 
 ### 🚀 Sugestão premiada
 
