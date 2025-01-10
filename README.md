@@ -9,7 +9,7 @@ Esperamos que você demonstre domínio em aspectos fundamentais de desenvolvimen
 
 ## 🎯 Objetivo do Desafio
 
-Você deverá construir uma página baseada no protótipo fornecido ([link do layout no Figma](https://www.figma.com/design/mEuuuja11kYw9M9swY69wl/Desafio-Genius?node-id=0-1&p=f&t=go1lJa0CjhRyCFY3-0)). Essa página exibe informações sobre um veículo e dados institucionais, obtidos por meio de uma **Fake API** que você deve implementar.
+Você deverá construir uma página baseada no protótipo fornecido ([link do layout no Figma](https://www.figma.com/design/mEuuuja11kYw9M9swY69wl/Desafio-Front-end-Jr.?node-id=0-1&p=f&t=cp5W8MYQYyvXY5wN-0)). Essa página exibe informações sobre um veículo e dados institucionais, obtidos por meio de uma **Fake API** que você deve implementar.
 
 
 ## 🛠️ Requisitos Técnicos
