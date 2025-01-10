@@ -119,8 +119,7 @@ Os itens abaixo **não são obrigatórios nem desclassificatórios**, mas, para 
 4. **Animações:** Adicione animações leves para transições e interações do usuário, garantindo uma experiência fluida.
 5. **Teste Básico:** Crie um teste unitário para validar que os dados do veículo estão sendo corretamente renderizados na interface.
 6. **Estilização**: Use variáveis no CSS para temas ou cores e considere organizar o CSS usando a metodologia BEM ([saiba mais](https://desenvolvimentoparaweb.com/css/bem/)).
-7. **Documentação**: Documente seu código com comentários relevantes.
-8. **Class components**: Demonstrar a capacidade de trabalhar com Class Components em React também é uma vantagem
+7. **Class components**: Demonstrar a capacidade de trabalhar com Class Components em React também é uma vantagem
 
 ### 🚀 Sugestão premiada
 
@@ -138,8 +137,9 @@ Adicionar um backend bem estruturado demonstra uma habilidade extra de desenvolv
 
 ## 📩 Dúvidas
 
-Caso tenha alguma dúvida, entre em contato com o recrutador:
+Caso tenha alguma dúvida, entre em contato com um dos recrutadores:
 
+- **Jéssica Ribeiro**: jessica@autoforce.com
 - **Pedro Duca:** pedro.duca@autoforce.com
 
 Boa sorte e acelere no desafio! 🚀
