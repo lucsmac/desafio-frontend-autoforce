@@ -66,6 +66,7 @@ Seu projeto será avaliado com base em:
     "speed": "154 km/h"
   },
   "image": "link_da_imagem_do_veículo",
+  "video": "https://www.youtube.com/watch?v=cFyrTEYyq64",
   "legal_text": "Valor de tabela (código 823839), ano/modelo 18/19 à vista a partir de R$ 179.950 ou financiado com entrada de R$ 40.490 (40%) e mais 24 prestações mensais de R$ 1.286, taxa de juros 0% a.m. e 0% a.a. Total da operação: R$ 205.874. Oferta válida para veículos com pintura sólida."
 }
 ```
