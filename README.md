@@ -1,4 +1,4 @@
-# Desafio Técnico - Desenvolvedor Front-end Junior (React)
+# Desafio Técnico - Desenvolvedor Front-end Junior
 
 Bem-vindo(a) ao desafio técnico da vaga de **Desenvolvedor Front-end Junior**! 🎉
 
@@ -6,13 +6,11 @@ O objetivo deste desafio é avaliar suas habilidades técnicas em desenvolviment
 
 Esperamos que você demonstre domínio em aspectos fundamentais de desenvolvimento web, como responsividade, acessibilidade, performance e boas práticas.
 
----
 
 ## 🎯 Objetivo do Desafio
 
 Você deverá construir uma página baseada no protótipo fornecido ([link do layout no Figma](https://www.figma.com/design/mEuuuja11kYw9M9swY69wl/Desafio-Genius?node-id=0-1&p=f&t=go1lJa0CjhRyCFY3-0)). Essa página exibe informações sobre um veículo e dados institucionais, obtidos por meio de uma **Fake API** que você deve implementar.
 
----
 
 ## 🛠️ Requisitos Técnicos
 
@@ -40,7 +38,6 @@ Seu projeto será avaliado com base em:
 - **Escalabilidade:** Estruture o código para facilitar a adição de novas funcionalidades.
 - **Design:** Garanta que a interface final esteja alinhada ao protótipo fornecido.
 
----
 
 ## 📝 Instruções
 
@@ -99,7 +96,6 @@ Seu projeto será avaliado com base em:
      - Quais decisões técnicas foram tomadas.
      - Quais melhorias adicionais poderiam ser feitas, caso houvesse mais tempo.
 
----
 
 ## 🔍 Avaliação
 
@@ -111,7 +107,6 @@ Os critérios de avaliação incluem:
 4. **Funcionalidade:** a aplicação funciona conforme o esperado?
 5. **Criatividade:** ideias ou melhorias além do escopo proposto serão valorizadas.
 
----
 
 ## 🌟 Sugestões Extras
 
